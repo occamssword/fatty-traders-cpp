@@ -1,0 +1,12 @@
+{
+    "ib_gateway": {
+        "host": "127.0.0.1",
+        "port": 4001,
+        "client_id": 1
+    },
+    "gui": {
+        "window_width": 800,
+        "window_height": 600,
+        "refresh_interval": 1000
+    }
+}
